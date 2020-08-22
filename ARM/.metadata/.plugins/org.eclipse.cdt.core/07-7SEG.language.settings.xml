@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project>
-<<<<<<< HEAD
 	<configuration id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1713182008" name="Debug">
-=======
-	<configuration id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1945685545" name="Debug">
->>>>>>> master
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
 			<provider id="ilg.gnuarmeclipse.managedbuild.cross.GCCBuiltinSpecsDetector">
 				<language id="org.eclipse.cdt.core.gcc">
@@ -2696,26 +2692,13 @@
 			</provider>
 		</extension>
 	</configuration>
-<<<<<<< HEAD
 	<configuration id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.release.1367154842" name="Release">
-=======
-	<configuration id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.release.1439253945" name="Release">
->>>>>>> master
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
 			<provider id="ilg.gnuarmeclipse.managedbuild.cross.GCCBuiltinSpecsDetector">
 				<language id="org.eclipse.cdt.core.gcc">
 					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-<<<<<<< HEAD
-					<entry kind="includePath" name="/${ProjName}/#undef __ARM_FEATURE_DSP">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH"/>
-					</entry>
-					<entry kind="includePath" name="/${ProjName}/#undef __ARM_FEATURE_CRYPTO">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH"/>
-					</entry>
-=======
->>>>>>> master
 					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include-fixed">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
