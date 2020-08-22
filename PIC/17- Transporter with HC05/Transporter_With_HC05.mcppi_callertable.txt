@@ -1,0 +1,16 @@
+main
+	pins_config
+		UART1_Init
+	UART1_Data_Ready
+	UART1_Read
+	move_F
+	move_L
+	move_R
+	move_B
+	move_S
+	move_AU
+	move_AD
+	move_AR
+	move_AL
+	move_GO
+	move_GC
