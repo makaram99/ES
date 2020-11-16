@@ -104,21 +104,22 @@ u8 MNVIC_u8ReadActiveFlagFlag	(u8  Copy_u8IntNumber)
 }
 
 /* Eng. Ahmed Atia	*/
-/*
+
 void MNVIC_voidSetPriority(s8 Copy_s8IntId, u8 Copy_u8GroupPriority, u8 Copy_u8SubPriority, u32 Copy_u32Group)
 {
-	u8 Local_u8Priority = Copy_u8SubPriority | (Copy_u8GroupPriority << ((Copy_u32Group - 0x05FA0300)/256));*/
+	u8 Local_u8Priority = Copy_u8SubPriority | (Copy_u8GroupPriority << ((Copy_u32Group - 0x05FA0300)/256));
+	
 	/* Core peripheral	*/
 
 	/* External Peripheral	*/
-/*
-	if(Copy_s8IntId > 0)
+
+	if(Copy_s8IntId >= 0)
 	{
 		NVIC_IPR[Copy_s8IntId] = Local_u8Priority << 4;
 
 	}
 	SCB_AIRCR = Copy_u32Group;
-}*/
+}
 
 /* Eng. Ahmed Assaf	*/
 void MNVIC_voidSetPriority(u8 Copy_u8PeripheralIdx, u8 Copy_u8Priority)

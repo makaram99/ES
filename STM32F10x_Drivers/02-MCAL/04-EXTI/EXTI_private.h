@@ -6,16 +6,14 @@
 #ifndef EXTI_PRIVATE_H
 #define EXTI_PRIVATE_H
 
-typedef struct{
+typedef struct
+{
 	volatile u32 IMR	;
 	volatile u32 EMR	;
 	volatile u32 RTSR	;
 	volatile u32 FTSR	;
 	volatile u32 SWIER	;
-	volatile u32 PRR	;
-	
-	/* Step here is 32 steps	*/
-	
+	volatile u32 PRR	;	
 }EXTI_t;
 
 #define 	EXTI	((volatile EXTI_t *)0x40010400)
