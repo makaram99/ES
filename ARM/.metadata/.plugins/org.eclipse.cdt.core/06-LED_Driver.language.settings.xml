@@ -4,13 +4,13 @@
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
 			<provider id="ilg.gnuarmeclipse.managedbuild.cross.GCCBuiltinSpecsDetector">
 				<language id="org.eclipse.cdt.core.gcc">
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include-fixed">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include-fixed">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="DEBUG" value="1">
@@ -1302,22 +1302,22 @@
 					</entry>
 				</language>
 				<language id="org.eclipse.cdt.core.g++">
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1/arm-none-eabi/thumb/v7-m">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1/arm-none-eabi/thumb/v7-m">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1/backward">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1/backward">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include-fixed">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include-fixed">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="DEBUG" value="1">
@@ -1425,9 +1425,6 @@
 					<entry kind="macro" name="__ATOMIC_CONSUME" value="1">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="macro" name="__ATOMIC_CONSUME" value="4">
-						<flag value="BUILTIN|READONLY"/>
-					</entry>
 					<entry kind="macro" name="__ATOMIC_RELAXED" value="0">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
@@ -1438,9 +1435,6 @@
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__BIGGEST_ALIGNMENT__" value="8">
-						<flag value="BUILTIN|READONLY"/>
-					</entry>
-					<entry kind="macro" name="__BIGGEST_ALIGNMENT__" value="signed char">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__BYTE_ORDER__" value="__ORDER_LITTLE_ENDIAN__">
@@ -1513,9 +1507,6 @@
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__DEC128_MAX__" value="9.999999999999999999999999999999999E6144DL">
-						<flag value="BUILTIN|READONLY"/>
-					</entry>
-					<entry kind="macro" name="__DEC128_MAX__" value="0X7FP-7HR">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__DEC128_MIN_EXP__" value="(-6142)">
@@ -1650,6 +1641,9 @@
 					<entry kind="macro" name="__FLT32_HAS_DENORM__" value="1">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
+					<entry kind="macro" name="__FLT32_HAS_INFINITY__" value="1">
+						<flag value="BUILTIN|READONLY"/>
+					</entry>
 					<entry kind="macro" name="__FLT32_HAS_QUIET_NAN__" value="1">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
@@ -1674,16 +1668,10 @@
 					<entry kind="macro" name="__FLT32_MIN__" value="1.1754943508222875e-38F32">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="macro" name="__FLT64_DECIMAL_DIG__" value="(-307)">
-						<flag value="BUILTIN|READONLY"/>
-					</entry>
 					<entry kind="macro" name="__FLT64_DECIMAL_DIG__" value="17">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__FLT64_DENORM_MIN__" value="4.9406564584124654e-324F64">
-						<flag value="BUILTIN|READONLY"/>
-					</entry>
-					<entry kind="macro" name="__FLT64_DIG__" value="1">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__FLT64_DIG__" value="15">
@@ -1711,6 +1699,9 @@
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__FLT64_MAX__" value="1.7976931348623157e+308F64">
+						<flag value="BUILTIN|READONLY"/>
+					</entry>
+					<entry kind="macro" name="__FLT64_MIN_10_EXP__" value="(-307)">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__FLT64_MIN_EXP__" value="(-1021)">
@@ -1908,6 +1899,9 @@
 					<entry kind="macro" name="__INT8_MAX__" value="0x7f">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
+					<entry kind="macro" name="__INT8_TYPE__" value="signed char">
+						<flag value="BUILTIN|READONLY"/>
+					</entry>
 					<entry kind="macro" name="__INTMAX_C(c)" value="c ## LL">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
@@ -2046,10 +2040,10 @@
 					<entry kind="macro" name="__LDBL_MANT_DIG__" value="53">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="macro" name="__LDBL_MAX_10_EXP__" value="1024">
+					<entry kind="macro" name="__LDBL_MAX_10_EXP__" value="308">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="macro" name="__LDBL_MAX_10_EXP__" value="308">
+					<entry kind="macro" name="__LDBL_MAX_EXP__" value="1024">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__LDBL_MAX__" value="1.7976931348623157e+308L">
@@ -2098,6 +2092,9 @@
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__LLFRACT_FBIT__" value="63">
+						<flag value="BUILTIN|READONLY"/>
+					</entry>
+					<entry kind="macro" name="__LLFRACT_IBIT__" value="0">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__LLFRACT_MAX__" value="0X7FFFFFFFFFFFFFFFP-63LLR">
@@ -2178,10 +2175,16 @@
 					<entry kind="macro" name="__SCHAR_WIDTH__" value="8">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
+					<entry kind="macro" name="__SFRACT_EPSILON__" value="0x1P-7HR">
+						<flag value="BUILTIN|READONLY"/>
+					</entry>
 					<entry kind="macro" name="__SFRACT_FBIT__" value="7">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__SFRACT_IBIT__" value="0">
+						<flag value="BUILTIN|READONLY"/>
+					</entry>
+					<entry kind="macro" name="__SFRACT_MAX__" value="0X7FP-7HR">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__SFRACT_MIN__" value="(-0.5HR-0.5HR)">
@@ -2221,6 +2224,9 @@
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__SIZEOF_LONG__" value="4">
+						<flag value="BUILTIN|READONLY"/>
+					</entry>
+					<entry kind="macro" name="__SIZEOF_POINTER__" value="4">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__SIZEOF_PTRDIFF_T__" value="4">
@@ -2313,7 +2319,7 @@
 					<entry kind="macro" name="__UDQ_IBIT__" value="0">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="macro" name="__UFRACT_EPSILON__" value="(-0.5R-0.5R)">
+					<entry kind="macro" name="__UFRACT_EPSILON__" value="0x1P-16UR">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__UFRACT_FBIT__" value="16">
@@ -2458,9 +2464,6 @@
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__ULFRACT_FBIT__" value="32">
-						<flag value="BUILTIN|READONLY"/>
-					</entry>
-					<entry kind="macro" name="__ULFRACT_FBIT__" value="0">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="__ULFRACT_IBIT__" value="0">
@@ -2693,13 +2696,13 @@
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
 			<provider id="ilg.gnuarmeclipse.managedbuild.cross.GCCBuiltinSpecsDetector">
 				<language id="org.eclipse.cdt.core.gcc">
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include-fixed">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include-fixed">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="HSE_VALUE" value="8000000">
@@ -3985,22 +3988,22 @@
 					</entry>
 				</language>
 				<language id="org.eclipse.cdt.core.g++">
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1/arm-none-eabi/thumb/v7-m">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1/arm-none-eabi/thumb/v7-m">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1/backward">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include/c++/7.2.1/backward">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include-fixed">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/lib/gcc/arm-none-eabi/7.2.1/include-fixed">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
-					<entry kind="includePath" name="F:/Bussiness/Entities/IMT School/ARM Diploma_Summer_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include">
+					<entry kind="includePath" name="F:/Bussiness/Courses/EmbededSystems/Courses/ARM/IMT_ARM_2020/IMT_ARM_Course/02- Tools/03- IMT SDK/IMT_SDK_Win_64/WinARM/ArmGCC/arm-none-eabi/include">
 						<flag value="BUILTIN|READONLY"/>
 					</entry>
 					<entry kind="macro" name="HSE_VALUE" value="8000000">
